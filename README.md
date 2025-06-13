@@ -198,41 +198,7 @@ ecommerce-product-analysis/
 - **Portfolio Rationalization:**  
   Employ Pareto analysis to rationalize product lineup: maintain a lean portfolio focused on top performers while evaluating underperformers for potential discontinuation.
 
----
-
-## 📌 How to Use
-
-1. **Clone the Repository:**  
-   ```bash
-   git clone <repo_url>
-   cd ecommerce-product-analysis
-   ```
-2. **Install Dependencies:**  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Generate or Load Data:**  
-   - Run `scripts/generate_product_data.py` to regenerate synthetic data.  
-   - Or use existing `data/product_data.csv`.
-4. **Run Analysis:**  
-   - Open and run notebooks in the `notebooks/` folder for detailed exploration.  
-   - Use scripts:  
-     ```bash
-     python scripts/analyze_products.py
-     python scripts/visualize_product_performance.py
-     ```
-5. **Review Dashboards:**  
-   - View static charts in `dashboards/`.  
-   - Optionally recreate interactive dashboards in Tableau/Power BI using the CSV data.
-6. **Customize & Extend:**  
-   - Replace synthetic data with real e-commerce product data.  
-   - Add advanced analytics: predictive demand forecasting, pricing optimization, recommendation systems.
-7. **Share & Present:**  
-   - Highlight findings and strategic recommendations in stakeholder presentations or application portfolios.
-
----
 
 ## 📬 Contact & Collaboration
 
-For questions or suggestions, open an issue or reach out via GitHub. This project reflects strong strategic understanding, data-driven decision-making, and the ability to translate analysis into business actions—key skills for analytical roles.
-
+kamiljabbar5@gmail.com
